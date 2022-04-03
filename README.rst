@@ -1,3 +1,6 @@
+# NOTE:
+Forked from https://github.com/hellysmile/fake-useragent due to issue
+
 fake-useragent
 ==============
 
@@ -26,7 +29,7 @@ Installation
 
 .. code-block:: shell
 
-    pip install fake-useragent
+    pip install git@github.com:fyrespark/fake-useragent.git
 
 Usage
 -----
