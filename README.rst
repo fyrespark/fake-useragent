@@ -29,7 +29,7 @@ Installation
 
 .. code-block:: shell
 
-    pip install git@github.com:fyrespark/fake-useragent.git
+    pip install git+https://github.com/fyrespark/fake-useragent.git
 
 Usage
 -----
