@@ -14,7 +14,7 @@ isort==4.2.5
 mccabe==0.6.1
 mock==2.0.0
 packaging==16.8
-pathlib2==2.2.1
+pathlib2==2.3.7.post1
 pexpect==4.2.1
 pickleshare==0.7.4
 pluggy==0.4.0
