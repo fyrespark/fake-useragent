@@ -1,5 +1,6 @@
-# NOTE:
-Forked from https://github.com/hellysmile/fake-useragent due to issue
+NOTE:
+-----
+Forked from https://github.com/hellysmile/fake-useragent due to issue around ws table
 
 fake-useragent
 ==============
